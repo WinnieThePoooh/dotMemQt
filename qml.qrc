@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+		<file>views/DominatorsChart.qml</file>
+    </qresource>
+</RCC>
